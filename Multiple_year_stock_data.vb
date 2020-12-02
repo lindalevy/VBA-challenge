@@ -1,5 +1,4 @@
-# VBA-challenge
-
+Attribute VB_Name = "Module1"
 Sub EverySheet()
     Dim xSh As Worksheet
     Application.ScreenUpdating = False
